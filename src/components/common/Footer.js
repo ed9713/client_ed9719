@@ -23,9 +23,9 @@ export default function Footer() {
         color="primary"
         padding="10px"
         className="cursorPointer"
-        onClick={() => handleCopyClipBoard("qiew@naver.com")}
+        onClick={() => handleCopyClipBoard("XXXX@naver.com")}
       >
-        이메일 연락처 : qiew@네이버.com 복사
+        이메일 연락처 : XXXX@네이버.com 복사
       </Badge>
     </footer>
   );

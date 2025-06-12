@@ -15,7 +15,7 @@ export const CM_MIN_WIDTH_DEFAULT = 500;
 export const CM_LOGIN_NOT_EMAIL = "noLogin"; // 로그인 정보가 없다.
 export const CM_LOGIN_NOT_CHECK = "noCheck"; // 로그인 정보 체크 전이다.
 export const CM_USER_LEVEL_ADM = 10;
-export const CM_USER_EMAIL_ADM = "qiew@naver.com";
+export const CM_USER_EMAIL_ADM = "XXXX@naver.com";
 
 export const CM_FILE_UPLOAD_MAX_SIZE = 100000;
 export const CM_FILE_UPLOAD_MAX_CNT = 10;
